@@ -23,7 +23,4 @@ Uygulamada kullanıcı şunları yapabilir:
 1. Projeyi klonlayın:
 ```bash
 git clone https://github.com/240404803-BHY/lab-07.git
-"# lab-07" 
-"# lab-07" 
-"# lab-07" 
-"# lab-07" 
+
