@@ -1,34 +1,38 @@
-# Yapılacaklar Listesi Uygulaması (TodoApp)
+Todo App
 
-Öğrenci Adı: Berk Hakan Yılmaz
+Student: Berk Hakan Yılmaz
 
-Öğrenci No: 240404803
+Student ID: 240404803
 
-Ders: Android Uygulama Programlama
+Course: Android Application Programming
 
-Tarih: 11/11/2025
+Date: 11/11/2025
 
 
-## Proje Açıklaması
-Bu proje, React Native kullanılarak geliştirilmiş interaktif bir "Yapılacaklar Listesi" uygulamasıdır.  
-Uygulamada kullanıcı şunları yapabilir:  
-- Yeni görev eklemek  
-- Eklenen görevleri listelemek  
-- Liste öğelerine dokunarak görevleri silmek  
-- Klavye açıldığında düzenin kaymamasını sağlamak (KeyboardAvoidingView kullanımı)  
+Project Description
 
-## Kullanılan Teknolojiler
-- React Native  
-- Expo  
-- JavaScript  
-- react-native-safe-area-context  
+This project is an interactive “To-Do List” application developed with React Native. In the app, users can:
 
-## Kurulum ve Çalıştırma
-1. Projeyi klonlayın:
-```bash
+Add new tasks
+
+List existing tasks
+
+Delete tasks by tapping on list items
+
+Prevent layout shifts when the keyboard opens (using KeyboardAvoidingView)
+
+Technologies Used
+
+React Native
+
+Expo
+
+JavaScript
+
+react-native-safe-area-context
+
+Setup & Run
+
+Clone the project:
+
 git clone https://github.com/240404803-BHY/lab-07.git
-
-
-
-
-
