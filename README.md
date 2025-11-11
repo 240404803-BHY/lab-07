@@ -25,6 +25,7 @@ This project is an interactive “To-Do List” application developed with React
 ## Technologies Used
 
 -React Native
+
 -Expo
 
 -JavaScript
@@ -34,8 +35,9 @@ This project is an interactive “To-Do List” application developed with React
 
 ## Setup & Run
 
--Clone the project:
+Clone the project:
 ```bash
 git clone https://github.com/240404803-BHY/lab-07.git
+
 
 
