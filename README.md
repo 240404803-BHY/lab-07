@@ -1,9 +1,13 @@
 # Yapılacaklar Listesi Uygulaması (TodoApp)
 
 Öğrenci Adı: Berk Hakan Yılmaz
+
 Öğrenci No: 240404803
+
 Ders: Android Uygulama Programlama
+
 Tarih: 11/11/2025
+
 
 ## Proje Açıklaması
 Bu proje, React Native kullanılarak geliştirilmiş interaktif bir "Yapılacaklar Listesi" uygulamasıdır.  
@@ -23,6 +27,7 @@ Uygulamada kullanıcı şunları yapabilir:
 1. Projeyi klonlayın:
 ```bash
 git clone https://github.com/240404803-BHY/lab-07.git
+
 
 
 
